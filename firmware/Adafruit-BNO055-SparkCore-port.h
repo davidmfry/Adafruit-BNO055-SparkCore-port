@@ -21,10 +21,10 @@
 #define __ADAFRUIT_BNO055_H__
 
 #include "application.h"
-#include "Wire.h"
+// #include "Wire.h"
 
 #include "Adafruit_Sensor.h"
-#include "imumaths.h"
+// #include "imumaths.h"
 
 #define BNO055_ADDRESS_A (0x28)
 #define BNO055_ADDRESS_B (0x29)

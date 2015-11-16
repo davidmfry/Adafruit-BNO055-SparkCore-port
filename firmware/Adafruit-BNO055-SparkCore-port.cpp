@@ -19,8 +19,9 @@
 
  #include "application.h"
 
-#include <math.h>
-#include <limits.h>
+// This is build into the particle IDE so you done need to include them
+//#include <math.h>
+//#include <limits.h>
 
 #include "Adafruit_BNO055.h"
 
