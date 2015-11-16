@@ -1,0 +1,7 @@
+{
+  "name": "Adafruit-BNO055-SparkCore-port",
+  "author": "Alex Styl <github.com/alexstyl>",
+  "license": "MIT",
+  "version": "0.0.10",
+  "description": "A SparkCore port of Adafruit's library for the BNO055 sensor https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/"
+}
